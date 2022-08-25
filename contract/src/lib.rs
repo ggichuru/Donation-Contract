@@ -88,3 +88,5 @@ impl Contract {
         self.beneficiary = beneficiary;
     }
 }
+
+//TODO: [WAK-3] -> ADD TESTS
