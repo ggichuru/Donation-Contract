@@ -27,7 +27,11 @@ impl Default for Contract {
 impl Contract {
     #[init]
     #[private]
+    ///
     /// Public but only callable by env::currecnt_account_id()
+    ///
+    /// Initialize the contract with a specific beneficiary
+    ///
     pub fn new(beneficiary: AccountId) -> Self {
         assert!(!env::state_exists(), "Already Initialized");
         Self {
@@ -36,6 +40,9 @@ impl Contract {
         }
     }
 
+    ///
+    /// A method in which the users attache NEAR in to donate
+    ///
     #[payable] // Public - People can attach money
     pub fn donate(&mut self) -> U128 {
         // Get the caller and how much near they attached
