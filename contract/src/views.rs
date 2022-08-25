@@ -18,7 +18,7 @@ pub struct Donation {
 #[near_bindgen]
 impl Contract {
     //Public - get donation by account ID
-    pub fn get_donation_for_account(&self, account_id: Account) -> Donation {
+    pub fn get_donation_for_account(&self, account_id: AccountId) -> Donation {
         Donation {
             account_id: account_id.clone(),
             total_amount: U128(self.donations.get(&account_id).unwrap_or(0)),
@@ -27,12 +27,12 @@ impl Contract {
 
     // Public get Total number of donations
     pub fn total_donations(&self) -> u64 {
-        self.donations.len();
+        self.donations.len()
     }
 
     // Public - Paginate through all donations on the contract
     pub fn get_donations(&self, from_index: Option<U128>, limit: Option<u64>) -> Vec<Donation> {
-        /// Where to start pagination if we have a from_index, use that, else start from 0 index
+        // Where to start pagination if we have a from_index, use that, else start from 0 index
         let start = u128::from(from_index.unwrap_or(U128(0)));
 
         // Iterate through donation
