@@ -1,5 +1,5 @@
-near-blank-project
-==================
+near-Donations Contract-project
+===============================
 
 This app was initialized with [create-near-app]
 
