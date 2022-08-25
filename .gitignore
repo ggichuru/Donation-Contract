@@ -9,6 +9,10 @@ node_modules
 /out
 /dist
 
+#target
+/integration-tests/target
+/contract/target
+
 # keys
 /templates/react/neardev
 
