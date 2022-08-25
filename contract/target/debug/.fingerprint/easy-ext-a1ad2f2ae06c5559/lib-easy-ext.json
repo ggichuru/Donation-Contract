@@ -1,0 +1,1 @@
+{"rustc":14997152855509374802,"features":"[]","target":11098757358631353596,"profile":12637318739757120569,"path":15549270504892081399,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/easy-ext-a1ad2f2ae06c5559/dep-lib-easy-ext"}}],"rustflags":["-C","link-args=-s"],"metadata":12123150640952772219,"config":2202906307356721367,"compile_kind":0}

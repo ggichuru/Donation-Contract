@@ -1,0 +1,11 @@
+/home/mkulima/Workspace/Mkulima/NEAR/Donation_Contract/contract/target/debug/deps/digest-b3ae44a4b371080b.rmeta: /home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/lib.rs /home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api.rs /home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/ct_variable.rs /home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/rt_variable.rs /home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/wrapper.rs /home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/xof_reader.rs /home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/digest.rs
+
+/home/mkulima/Workspace/Mkulima/NEAR/Donation_Contract/contract/target/debug/deps/digest-b3ae44a4b371080b.d: /home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/lib.rs /home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api.rs /home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/ct_variable.rs /home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/rt_variable.rs /home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/wrapper.rs /home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/xof_reader.rs /home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/digest.rs
+
+/home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/lib.rs:
+/home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api.rs:
+/home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/ct_variable.rs:
+/home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/rt_variable.rs:
+/home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/wrapper.rs:
+/home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/core_api/xof_reader.rs:
+/home/mkulima/.cargo/registry/src/github.com-1ecc6299db9ec823/digest-0.10.3/src/digest.rs:
